@@ -33,7 +33,6 @@ Hi, I'm Mohamed Ali Medimagh, I am a passionate and experienced Android develope
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medali88&show_icons=true&locale=en&layout=compact" alt="medali88" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medali88&show_icons=true&locale=en" alt="medali88" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=medali88" alt="medali88" /></p>
 
